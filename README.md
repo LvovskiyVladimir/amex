@@ -14,6 +14,11 @@
 
 Каждый метод имеет документацию, описывающую правила ввода входных данных и список возможных кодов ответа метода.
 
+## Данные нужно скачать по ссылкам ниже и положить в папку input в проекте
+![Test_Parquet](https://www.kaggle.com/datasets/raddar/amex-data-integer-dtypes-parquet-format)
+
+![Train_Parquet](https://www.kaggle.com/datasets/raddar/amex-data-integer-dtypes-parquet-format?select=train.parquet)
+
 ## Запуск HTTP сервиса:
 
 1. `poetry install` - устанавливаем зависимости
